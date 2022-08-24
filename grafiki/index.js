@@ -129,7 +129,7 @@ game.onclick = () => {
 
         if(!losing){
             let top =parseInt(window.getComputedStyle(zhdanov).getPropertyValue("top"))
-            zhdanov.style.top = (top-50)+"px"     
+            zhdanov.style.top = (top-60)+"px"     
             
         }
   }
